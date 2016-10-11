@@ -1,0 +1,25 @@
+body {
+  background-color: #adcceb;
+  text-align: center;
+}
+h1 {
+  color: #e67300;
+  font-family: monospace;
+  border: 2px solid #e67300;
+  font-size: 500%;
+}
+h2 {
+  font-style: italic;
+  color: #804000;
+}
+p {
+  line-height: 5;
+}
+img {
+  width: 500px;
+}
+ul {
+  padding-left: 600px;
+  margin-right: 600px;
+  list-style: square;
+}
