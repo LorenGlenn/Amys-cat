@@ -22,4 +22,21 @@ ul {
   padding-left: 600px;
   margin-right: 600px;
   list-style: square;
+  font-size: 20px;
+}
+.intro {
+  font-size: 25px;
+}
+.paws {
+  color: orange
+}
+.whiskers {
+  color: pink
+}
+. kiss {
+  font-style: italic;
+  color: red;
+}
+.instagram {
+  font-family: monospace;
 }
