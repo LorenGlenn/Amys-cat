@@ -1,7 +1,15 @@
 body {
-  background-color: #adcceb;
   text-align: center;
 }
+.light-background {
+  background-color: #adcceb;
+  color: black;
+}
+.dark-background {
+  background-color: darkblue;
+  color: papayawhip;
+}
+
 h1 {
   color: #e67300;
   font-family: monospace;
@@ -27,16 +35,7 @@ ul {
 .intro {
   font-size: 25px;
 }
-.paws {
-  color: orange
-}
-.whiskers {
-  color: pink
-}
-. kiss {
-  font-style: italic;
-  color: red;
-}
+
 .instagram {
   font-family: monospace;
 }
