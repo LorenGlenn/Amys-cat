@@ -1,10 +1,8 @@
 body {
+  background-color: #adcceb;
   text-align: center;
 }
-.light-background {
-  background-color: #adcceb;
-  color: black;
-}
+
 .dark-background {
   background-color: darkblue;
   color: papayawhip;
